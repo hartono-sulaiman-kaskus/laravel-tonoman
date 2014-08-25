@@ -1,0 +1,20 @@
+{
+    "name": "hartono-sulaiman-kaskus/laravel-tonoman",
+    "description": "This is for coba2",
+    "authors": [
+        {
+            "name": "Hartono Sulaiman Wijaya",
+            "email": "hartono.sulaiman@kaskusnetworks.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload":{
+        "psr-0":{
+            "HelloWorld":"src/"
+        }
+    }
+}
+
